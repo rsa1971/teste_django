@@ -16,7 +16,7 @@ install:
 
 script:
   - pipenv run flake8
-  - pytest teste_django --cov=teste_django
+  - pipenv run pytest teste_django --cov=teste_django
 
 after_success:
   - codecov

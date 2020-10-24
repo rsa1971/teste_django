@@ -5,7 +5,6 @@ Nesse curso, cria-se um projeto Django sob a supervisão da Python Pro.
 
 https://github.com/rsa1971/teste_django
 
-
 [![Build Status](https://travis-ci.org/rsa1971/teste_django.svg?branch=main)](https://travis-ci.org/rsa1971/teste_django)
 
 [![Updates](https://pyup.io/repos/github/rsa1971/libpythonpro/shield.svg)](https://pyup.io/repos/github/rsa1971/libpythonpro/)

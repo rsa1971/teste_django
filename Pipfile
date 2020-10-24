@@ -9,6 +9,7 @@ verify_ssl = true
 flake8 = "*"
 pytest-cov = "*"
 django = "*"
+gunicorn = "*"
 
 [requires]
 python_version = "3.8"

@@ -7,9 +7,6 @@ https://github.com/rsa1971/teste_django
 
 Configurando o ambiente virtual.
 
-Aplicação disponível em https://dashboard.heroku.com/apps/testedjango-r1
-
-
 [![Build Status](https://travis-ci.org/rsa1971/teste_django.svg?branch=main)](https://travis-ci.org/rsa1971/teste_django)
 
 [![Updates](https://pyup.io/repos/github/rsa1971/libpythonpro/shield.svg)](https://pyup.io/repos/github/rsa1971/libpythonpro/)
@@ -20,7 +17,6 @@ Aplicação disponível em https://dashboard.heroku.com/apps/testedjango-r1
 [![Build Status](https://travis-ci.org/rsa1971/curso_django.svg?branch=main)](https://travis-ci.org/rsa1971/curso_django)
 
 [![codecov](https://codecov.io/gh/rsa1971/curso_django/branch/main/graph/badge.svg)](https://codecov.io/gh/rsa1971/curso_django)
-
 
 Suportada versão 3 de Pyhton.
 

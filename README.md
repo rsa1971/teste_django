@@ -18,7 +18,8 @@ Aplicação disponível em https://dashboard.heroku.com/apps/testedjango-r1
 
 [![Build Status](https://travis-ci.org/rsa1971/curso_django.svg?branch=main)](https://travis-ci.org/rsa1971/curso_django)
 
-[![codecov](https://codecov.io/gh/rsa1971/curso_django/branch/main/graph/badge.svg)](https://codecov.io/gh/rsa1971/curso_django)
+[![codecov](https://codecov.io/gh/rsa1971/teste_django/branch/main/graph/badge.svg?token=W2WV0ODRCP)](https://codecov.io/gh/rsa1971/teste_django)
+
 
 Suportada versão 3 de Pyhton.
 

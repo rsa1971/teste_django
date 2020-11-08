@@ -15,7 +15,6 @@ Aplicação disponível em https://dashboard.heroku.com/apps/testedjango-r1
 
 [![Python 3](https://pyup.io/repos/github/rsa1971/libpythonpro/python-3-shield.svg)](https://pyup.io/repos/github/rsa1971/libpythonpro/)
 
-
 [![Build Status](https://travis-ci.org/rsa1971/curso_django.svg?branch=main)](https://travis-ci.org/rsa1971/curso_django)
 
 [![codecov](https://codecov.io/gh/rsa1971/teste_django/branch/main/graph/badge.svg?token=W2WV0ODRCP)](https://codecov.io/gh/rsa1971/teste_django)

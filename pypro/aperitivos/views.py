@@ -1,6 +1,7 @@
 from django.shortcuts import render
 from django.urls import reverse
 
+
 class Video:
     def __init__(self, slug, titulo, vimeo_id):
         self.slug = slug

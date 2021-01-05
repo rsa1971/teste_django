@@ -1,0 +1,8 @@
+DEBUG=True
+SECRET_KEY=CHAVE SECRETA
+ALLOWED_HOSTS=localhost, 127.0.0.1
+AWS_ACCESS_KEY_ID=
+AWS_SECRET_ACCESS_KEY=
+AWS_STORAGE_BUCKET_NAME=testedjangor2
+SENTRY_DSN=https://fbf3a9da6a854f91a66846241cafcc86@o490581.ingest.sentry.io/5554717
+DATABASE_URL=postgres://testedjango:testedjango@localhost:5434/testedjango

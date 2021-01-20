@@ -19,7 +19,6 @@ Aplicação disponível em https://dashboard.heroku.com/apps/testedjango-r1
 
 [![codecov](https://codecov.io/gh/rsa1971/teste_django/branch/main/graph/badge.svg?token=W2WV0ODRCP)](https://codecov.io/gh/rsa1971/teste_django)
 
-
 Suportada versão 3 de Pyhton.
 
 Para instalar:
